@@ -46,6 +46,10 @@ I'am from Kazakhstan, I'am 21 years old. I work as a teacher at the Step Academy
 ## Languages
 
 * Kazakh
+    - native speaker
 * Russian
+    - native speaker
 * English
+    - А2
 * German
+    - B1
