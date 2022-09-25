@@ -25,3 +25,27 @@ I'am from Kazakhstan, I'am 21 years old. I work as a teacher at the Step Academy
 * Python
 
 ***
+
+
+### Code example:
+```
+//JavaScript
+
+    const foo = (a, b) => a + b;
+    foo(1, 2);
+```
+
+***
+## Experience
+
+1. Freelance
+2. QazCarbon (Software-Engineer)
+3. Step Academy (Teacher)
+
+***
+## Languages
+
+* Kazakh
+* Russian
+* English
+* German
